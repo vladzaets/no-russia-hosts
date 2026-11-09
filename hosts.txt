@@ -1,6 +1,3 @@
-# 4pda.to/forum/index.php?showforum=1192
-4pda.to
-
 # platform.activestate.com
 activestate.com
 
@@ -102,10 +99,13 @@ clamav.net
 # claude.com/app-unavailable-in-region
 clau.de
 claude.ai
+claude.app
 claude.com
+claude.site
 claudemcpclient.com
 claudemcpcontent.com
 claudeusercontent.com
+
 
 # cxstudio.clarabridge.net
 clarabridge.net
@@ -113,6 +113,9 @@ clarabridge.net
 # coral.cohere.com
 # dashboard.cohere.com
 cohere.com
+
+compound.finance
+compound.xyz
 
 # www3.corsair.com
 corsair.com
@@ -177,11 +180,12 @@ gitlab.com
 # gllto.glpals.com
 glpals.com
 
-# bard.google.com
-# gemini.google.com
-# lookerstudio.google.com
-google.com
-googleapis.com
+# google
+bard.google.com
+gemini.google.com
+lookerstudio.google.com
+notebook.google.com
+notebooklm.google
 
 # discuss.ai.google.dev
 google.dev
